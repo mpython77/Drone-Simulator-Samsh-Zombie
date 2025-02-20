@@ -17,7 +17,7 @@
 ✅ **High-quality 3D graphics and effects** 🎨  
 
 ## 📲 Download the Game
-🔗 **Coming soon on Google Play Store!**
+🔗 **Available now on [Google Play Store](https://play.google.com/store/apps/details?id=com.NIGHTMAREGAMES.DroneSimulatorSMASHZOMBIES)!**
 
 ## 📸 Screenshots
 Here are some visuals from the game:
@@ -40,7 +40,7 @@ Watch the gameplay demo here:
 
 ## 📢 Contact
 For inquiries or collaboration, feel free to reach out:
-📧 **Email:** your.email@example.com
+📧 **Email:**  kelajak054@gmail.com.com
 
 ## 🔗 GitHub Repository
 🔗 **[Drone Simulator: Smash Zombie Repository](https://github.com/yourusername/drone-simulator-zombie)
