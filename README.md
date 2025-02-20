@@ -22,7 +22,8 @@
 ## 📸 Screenshots
 Here are some visuals from the game:
 
-![Screenshot 1](https://play-lh.googleusercontent.com/pj3kKHfZv2bZfyGd4YFC4aoLDjXsxhtjQUnIlSC0dNw63JoVsF8C00Xa4TNy14P6yQ=w526-h296-rw)   ![Screenshot 2](https://play-lh.googleusercontent.com/ZkqUm2rTEWC1R7Mv88PDnDrAvQHmefiGnWfmv1U4vuHr2XrV8h4VU6ExZz7t_CiuIOwF=w526-h296-rw)  
+![Screenshot 1](https://play-lh.googleusercontent.com/pj3kKHfZv2bZfyGd4YFC4aoLDjXsxhtjQUnIlSC0dNw63JoVsF8C00Xa4TNy14P6yQ=w526-h296-rw)   
+![Screenshot 2](https://play-lh.googleusercontent.com/ZkqUm2rTEWC1R7Mv88PDnDrAvQHmefiGnWfmv1U4vuHr2XrV8h4VU6ExZz7t_CiuIOwF=w526-h296-rw)  
 ![Screenshot 3](https://play-lh.googleusercontent.com/81FeudXOHp7xDDnOdXO1SUFNcTXwMLibwyt9AcSUeEdFTRVvm7REJdJXPKvqAXcsdi0=w526-h296-rw)   
 ![Screenshot 4](https://play-lh.googleusercontent.com/LfT8lb0oZQDCah0EphY8EQcBYcUNagh0AVyfqNBt4yk96s5rZn9TiW4SE7ZRVDAEy8Q=w526-h296-rw)  
 ![Screenshot 5](https://play-lh.googleusercontent.com/2YL6V420zGiO4WeidlGSP7XZkNBgSMbEEv-epsa7MwVL8oAQTlsgIgFNx33z_ffXISYO=w526-h296-rw)  
@@ -30,7 +31,7 @@ Here are some visuals from the game:
 
 ## 🎥 Gameplay Video
 Watch the gameplay demo here:  
-[![Watch the video](https://your-image-link.com/video-thumbnail.jpg)](https://play.google.com/video/lava/web/player/yt:movie:E2kdVhSXs30?autoplay=1&authuser=0&embed=play)
+[![Watch the video](https://play-lh.googleusercontent.com/aQctjFfUfELv3qzkIZ3K51rqaxt36Tz3rRHI7FK5bRGoITjzKzCaB9lTX2n_uAQqgBs=w240-h480-rw)](https://play.google.com/video/lava/web/player/yt:movie:E2kdVhSXs30?autoplay=1&authuser=0&embed=play)
 
 ## 🛠️ Development Details
 - **Engine:** Unity
