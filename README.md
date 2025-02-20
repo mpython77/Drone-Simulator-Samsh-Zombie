@@ -43,5 +43,5 @@ For inquiries or collaboration, feel free to reach out:
 📧 **Email:**  kelajak054@gmail.com.com
 
 ## 🔗 GitHub Repository
-🔗 **[Drone Simulator: Smash Zombie Repository](https://github.com/yourusername/drone-simulator-zombie)
+🔗 **[Drone Simulator: Smash Zombie Repository](https://github.com/mpython77/Drone-Simulator-Samsh-Zombie.git)
 
